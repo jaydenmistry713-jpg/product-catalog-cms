@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: jaydenmistryo713/product-catalog-cms
   branch: main
 
 # For local development/testing
